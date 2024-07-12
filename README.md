@@ -7,12 +7,12 @@ Welcome to the Open Fashion app! This app allows users to explore a collection o
 ## Screenshots
 
 <p float="left">
-  <img src=".\screenshots\photo_2_2024-07-11_00-33-31.jpg" alt="Screenshot 1" width="200" />
-  <img src=".\screenshots\photo_1_2024-07-11_00-33-31.jpg" alt="Screenshot 2" width="200" />
-  <img src=".\screenshots\photo_3_2024-07-11_00-33-31.jpg" alt="Screenshot 3" width="200" />
-  <img src=".\screenshots\photo_4_2024-07-11_00-33-31.jpg" alt="Screenshot 4" width="200" />
-  <img src=".\screenshots\photo_5_2024-07-11_00-33-31.jpg" alt="Screenshot 5" width="200" />
-  <img src=".\screenshots\photo_6_2024-07-11_00-33-31.jpg" alt="Screenshot 6" width="200" />
+  <img src=".\Screenshots\photo_2_2024-07-11_00-33-31.jpg" alt="Screenshot 1" width="200" />
+  <img src=".\Screenshots\photo_1_2024-07-11_00-33-31.jpg" alt="Screenshot 2" width="200" />
+  <img src=".\Screenshots\photo_3_2024-07-11_00-33-31.jpg" alt="Screenshot 3" width="200" />
+  <img src=".\Screenshots\photo_4_2024-07-11_00-33-31.jpg" alt="Screenshot 4" width="200" />
+  <img src=".\Screenshots\photo_5_2024-07-11_00-33-31.jpg" alt="Screenshot 5" width="200" />
+  <img src=".\Screenshots\photo_6_2024-07-11_00-33-31.jpg" alt="Screenshot 6" width="200" />
 </p>
 
 
